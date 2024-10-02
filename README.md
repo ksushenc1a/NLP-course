@@ -1,2 +1,2 @@
-# NPL-course
+# NLP-course
 Ksenia Zhuravleva 
